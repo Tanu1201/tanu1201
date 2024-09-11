@@ -3,8 +3,6 @@
 ## I'm a Developer
 
 - 📚 I’m currently learning and applying tech.
-- 👉 I’m looking for new Awesome opportunities
-- 🥅 2023 Goals: Contribute to Open Source projects
 
 ### Connect with me:
 
